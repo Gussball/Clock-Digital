@@ -17,8 +17,6 @@ function atualizarRelogio() {
     segundos.textContent = sec;
 }
 
-// Chamar a função para atualizar o relógio inicialmente
 atualizarRelogio();
 
-// Atualizar o relógio a cada segundo
 setInterval(atualizarRelogio, 1000);
