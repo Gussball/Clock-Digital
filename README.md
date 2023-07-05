@@ -22,5 +22,6 @@ script.js: Arquivo JavaScript que implementa a lógica do relógio digital.
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir erros ou adicionar recursos adicionais ao projeto.
 
 # GIF:
-![Relógio digital](https://user-images.githubusercontent.com/112123706/203867418-1b02c13b-a4be-45a8-a8fe-f0fb5a1f6a35.gif)
+![Clock-digital](https://github.com/Gussball/Clock-Digital/assets/112123706/c68b5e68-f2d0-4f0c-b7d7-c53702db60fb)
+
 
