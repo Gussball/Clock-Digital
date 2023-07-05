@@ -21,6 +21,17 @@ script.js: Arquivo JavaScript que implementa a lógica do relógio digital.
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir erros ou adicionar recursos adicionais ao projeto.
 
+## Documentação de cores
+
+| Cor               | Hexadecimal                                                |
+| ----------------- | ---------------------------------------------------------------- |
+| Branco       | ![#e7e7e7](https://via.placeholder.com/10/e7e7e7?text=+) #e7e7e7 |
+| Laranja       | ![#e21](https://via.placeholder.com/10/e21?text=+) #e21 |
+| Preto       | ![#00009](https://via.placeholder.com/10/00009?text=+) #00009 |
+| Vermelho       | ![#941616](https://via.placeholder.com/10/941616?text=+) #941616 |
+
+
+
 # GIF:
 ![Clock-digital](https://github.com/Gussball/Clock-Digital/assets/112123706/c68b5e68-f2d0-4f0c-b7d7-c53702db60fb)
 
